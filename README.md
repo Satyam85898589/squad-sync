@@ -1,0 +1,2 @@
+# squad-sync
+Game
